@@ -1,5 +1,5 @@
 // import Qoute from "./qouteBlock";
-import Qoute from "./qouteBlock";
+
 import { useState } from "react";
 import { useEffect } from "react";
 
