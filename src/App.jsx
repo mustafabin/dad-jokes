@@ -1,4 +1,4 @@
-import JokeButton from "./jokeBtn";
+import JokeButton from "./joke";
 import Navbar from "./navbar";
 import "./App.css";
 
